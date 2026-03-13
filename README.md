@@ -15,6 +15,7 @@ I am a passionate builder bridging the gap between hardware and software. I spec
 ---
 
 ### 📬 Connect with Me
+- **LinkedIn:** [Nithin](https://www.linkedin.com/in/nithin837695303)
 - **Portfolio:** [nithin-uu-portfolio.vercel.app](https://nithin-uu-portfolio.vercel.app/)
 - **Instagram:** [@is_nithinn](https://www.instagram.com/is_nithinn)
 - **Email:** [nithinu174@gmail.com](mailto:nithinu174@gmail.com)
