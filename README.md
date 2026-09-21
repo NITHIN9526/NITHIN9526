@@ -1,6 +1,6 @@
 .# Hi there, I'm Nithin 👋
 
-### 👨‍🎓 2nd Year Computer Hardware Engineering Student
+### 👨‍🎓 3rd Year Computer Hardware Engineering Student
 I am a passionate builder bridging the gap between hardware and software. I specialize in system administration, networking, and developing applications with Django.
 
 ---
